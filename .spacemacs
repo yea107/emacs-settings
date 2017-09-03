@@ -34,7 +34,7 @@ values."
      ;; django
      ivy
      ;; emacs-lisp
-     osx
+     ;; osx
      ;; html
      ;; ruby
      ;; (ruby :variables ruby-version-manager 'rvm)
@@ -44,9 +44,9 @@ values."
      c-c++
      git
      ;; javascript
-     latex
-     (latex :variables latex-build-command "LaTeX")
-     (latex :variables latex-enable-auto-fill nil)
+     ;; latex
+     ;; (latex :variables latex-build-command "LaTeX")
+     ;; (latex :variables latex-enable-auto-fill nil)
      extra-langs
      ibuffer
      ;; tabbar
